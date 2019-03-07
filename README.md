@@ -1,1 +1,1 @@
-echo # Hackaviz2019
+# Hackaviz2019
