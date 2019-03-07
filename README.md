@@ -5,3 +5,4 @@ Les fichiers de l'hackaviz2019.
 
 
 ## Lien vers le concours
+http://toulouse-dataviz.fr/hackaviz-2019-2
