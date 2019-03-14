@@ -1,15 +1,19 @@
 # Hackaviz2019
-Les fichiers de l'hackaviz2019.
+Les fichiers de données de l'hackaviz2019 organisé par [Toulouse Dataviz](https://toulouse-dataviz.fr).
 
 ## Mode d'emploi
 
-
-## Lien vers le concours
-[Le lien](http://toulouse-dataviz.fr/hackaviz-2019-2)
-C'est le bon lien 
-
-
 ![](Intro.png)
+![](Intro2.png)
+![](Intro3.png)
+![](Intro4.png)
 
-<a href="https://raw.githubusercontent.com/ToulouseDataViz/Hackaviz2019/master/par_commune.geojson?token=ABnwzMwWkhYl5Sk4MGuuummi-MdcuVotks5cih4wwA%3D%3D" download> geojson </a>
+Les fichiers xlsx contiennent le détail de la signification de chaque champs.
+
+[Les conditions du concours](http://toulouse-dataviz.fr/hackaviz-2019-2)
+
+
+
+
+
 
