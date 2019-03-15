@@ -5,7 +5,7 @@ Les fichiers de données de l'hackaviz2019 organisé par [Toulouse Dataviz](http
 
 ![](Intro.png)
 
-### Ceux qui restent, sortent ou rentrent
+## Ceux qui restent, sortent ou rentrent
 
 ![](Intro4.png)
 
@@ -17,7 +17,7 @@ Les fichiers de données de l'hackaviz2019 organisé par [Toulouse Dataviz](http
 
 ![](Intro2.png)
 
-
+## Compléments et références
 
 Les fichiers xlsx contiennent le détail de la signification de chaque champs.
 
