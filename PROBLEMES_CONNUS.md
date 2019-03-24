@@ -3,8 +3,6 @@
  - Les fichiers par_trajet ne contiennent **pas** toutes les communes mais uniquement les communes ayant un flux > 100.
  - A cause de cette même limite, il possible qu'une commune soit présente en 2009 mais pas en 2014 ou inversement.
 
-La limitation provient des données source qui omettent les petits flux pour des raisons de confidentialité.
-
 # Les problèmes connus (au 23/3/2019)
 
 ## Fichiers par_commune
