@@ -14,10 +14,12 @@
  	- 2009_intra_heure: la définition mentionne par erreur 2015 au lieu de 2009
  	- 2014_intra_km: 	la définition mentionne par erreur 2015 au lieu de 2014 	
 
-## tous les fichiers par_trajets
+#### tous les fichiers par_trajets
  - Des lignes sont doublonnées:
 
  ![](doublons.png) 
 
- Vous pouvez éliminer ces doublons ou les garder, cela n'aura pas d'influence sur le concours. Une investigation est en cours.
+ Vous pouvez éliminer ces doublons ou les garder, cela n'aura pas d'influence sur le concours. 
+
+ Une investigation est en cours.
 
