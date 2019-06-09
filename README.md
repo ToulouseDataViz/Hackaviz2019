@@ -1,4 +1,4 @@
-# Hackaviz2019
+# Hackaviz - 2019
 Les fichiers de données de l'hackaviz2019 organisé par [Toulouse Dataviz](https://toulouse-dataviz.fr).
 
 ## Mode d'emploi
