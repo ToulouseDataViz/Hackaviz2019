@@ -1,4 +1,4 @@
-# Hackaviz - 2019
+# Hackaviz 2019
 Les fichiers de données de l'hackaviz2019 organisé par [Toulouse Dataviz](https://toulouse-dataviz.fr).
 
 ## Mode d'emploi
@@ -19,9 +19,11 @@ Les fichiers de données de l'hackaviz2019 organisé par [Toulouse Dataviz](http
 
 ## Compléments et références
 
-Les fichiers xlsx contiennent le détail de la signification de chaque champs.
+Les fichiers xlsx contiennent le détail de la signification de chaque champ : [les données](https://toulouse-dataviz.fr/hackaviz/2019-data/)
 
-[Les conditions du concours](http://toulouse-dataviz.fr/hackaviz-2019-2)
+[Les conditions du concours](http://toulouse-dataviz.fr/hackaviz/2019-contest/)
+
+Enfin, voici [les participations](https://toulouse-dataviz.fr/hackaviz/2019-results/)
 
 
 
